@@ -1,0 +1,6 @@
+@TechNewsWebApp_HostAddress = http://localhost:5204
+
+GET {{TechNewsWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
